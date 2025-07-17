@@ -1,0 +1,6 @@
+name: astrbot_plugin_favor
+desc: 好感度系统（自用）
+help:  # 插件的帮助信息
+version: v2.0 # 插件的版本号
+author: timetetng # 作者
+repo: https://github.com/timetetng/astrbot_plugin_favor # 插件的仓库地址
